@@ -1,16 +1,28 @@
 <!-- Navigation -->
-<nav class="navbar navbar-light navbar-expand-md" id="mainNav" style="border-width: 0px;height: 78px;">
+<nav class="navbar navbar-light navbar-expand-md {% if include.fixed_top == "true" %}fixed-top{% endif %}" id="mainNav" style="border-width: 0px;height: 78px;">
     <div class="container"><a class="navbar-brand" href="/"><img src="/img/logo-white.svg" style="height: 48px;"><span style="margin-left: 9px;">ceri</span></a><button data-bs-toggle="collapse" class="navbar-toggler navbar-toggler-right" data-bs-target="#navbarResponsive" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" value="Menu"><i class="fa fa-bars"></i></button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ms-auto">
                 {% for a in site.data.menu.section %}
-                {% assign url_char = a.url | slice: 1 %}
-                {% if page.url == "/" and url_char == "#" %}
-                {% assign href_url = a.url | remove_first: "/" %}
-                {% else %}
-                {% assign href_url = a.url %}
-                {% endif %}
-                <li class="nav-item nav-link"><a class="nav-link{% if a.url == page.url %} active{% endif %}" href="{{ href_url }}">{{ a.page }}</a></li>
+                    {% assign url_char = a.url | slice: 1 %}
+                    
+                    {% if page.url == "/" and url_char == "#" %}
+                        {% assign href_url = a.url | remove_first: "/" %}
+                    {% else %}
+                        {% assign href_url = a.url %}
+                    {% endif %}
+                    
+                    {% if a.subsection[0] %}
+                        <li class="nav-item dropdown d-xxl-flex align-items-xxl-center"><a class="dropdown-toggle nav-link d-xxl-flex" aria-expanded="false" data-bs-toggle="dropdown" href="#">{{ a.page }}</a>
+                            <div class="dropdown-menu dropdown-menu-dark">
+                                {% for sub in a.subsection %}
+                                    <a class="dropdown-item" href="{{ sub.url }}">{{sub.page}}</a>
+                                {% endfor %}
+                            </div>
+                        </li>
+                    {% else %}
+                        <li class="nav-item nav-link"><a class="nav-link{% if a.url == page.url %} active{% endif %}" href="{{ href_url }}">{{ a.page }}</a></li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </div>

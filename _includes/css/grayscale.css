@@ -32,6 +32,11 @@
     text-align: justify
 }
 
+.content-div a, .content-div a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
 #events a,#events a:hover,#research-symposium a,#research-symposium a:hover {
     color: #000;
     text-decoration: underline
@@ -88,7 +93,7 @@
 
 .team-clean .people {
     padding-bottom: 40px;
-    marginright: 100px
+    /*margin-right: 100px*/
 }
 
 .team-clean .item {
@@ -152,4 +157,18 @@
 
 .content-div :is(h1, h2, h3, h4, h5, h6) {
     text-align: center;
+}
+
+/*.dropdown:hover .dropdown-menu {display: block;}*/
+
+.dropdown-toggle {
+    margin-top: 0.5em;
+}
+
+.dropdown-toggle::after {
+    margin-top: 0.5em;
+}
+
+nav {
+    z-index: 100;
 }

@@ -2,15 +2,17 @@
 <html>
     {% include head.html %}
     <body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" data-bs-offset="77">
-    {% include_relative frontpage/nav.html %}
+    {% include nav.html fixed_top="true" %}
     {% include_relative frontpage/header.html %}
     {% include_relative frontpage/about.html %}
     {% include_relative frontpage/mailing-list.html %}
     {% include_relative frontpage/community.html %}
     {% include_relative frontpage/events.html %}
+    {% comment %}
     {% include_relative frontpage/fellowships.html %}
     {% include_relative frontpage/resources.html %}
     {% include_relative frontpage/research-symposium.html %}
+    {% endcomment %}
     {% include contact.html %}
     {% include js.html %}
     </body>

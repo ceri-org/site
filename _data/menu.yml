@@ -6,15 +6,24 @@ section:
   - page: Events
     url: "/#events"
   - page: Fellowships
-    url: "/#fellowships"
+    url: "/fellowships/"
   - page: Resources
-    url: "/#resources"
+    url: "/resources/"
+    subsection:
+    - page: General
+      url: "/resources/general/"
+    - page: AI Safety
+      url: "/resources/ai-safety/"
+    - page: Climate
+      url: "/resources/climate/"
+    - page: Bio-risk
+      url: "/resources/bio-risk/"
   - page: Symposium
-    url: "/#research-symposium"
+    url: "/research-symposium/"
   - page: Team
     url: "/team/"
   - page: Contact
-    url: "/contact/"
+    url: "/#contact"
 
 #section:
 #  - page: Introduction
