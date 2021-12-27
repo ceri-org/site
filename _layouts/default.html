@@ -1,14 +1,21 @@
 <!DOCTYPE html>
 <html>
     {% include head.html %}
-    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <body id="page-top">
     {% include nav.html %}
-    {% include header.html %}
-    {% include about.html %}
-    {% include download.html %}
+    <header id="home" style="margin-top: 0px;background: url(/img/earth.jpg) center / cover;transform: perspective(770px);z-index: 1;position: relative;">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto" style="height: 40vh;">
+                        <h1 class="text-center brand-heading" style="margin-bottom: 0px;text-shadow: 5px 5px 5px #000;margin-top: 25vh;">{{ page.title }}</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    {{ content }}
     {% include contact.html %}
-    {% include map.html %}
-    {% include footer.html %}
     {% include js.html %}
     </body>
 </html>

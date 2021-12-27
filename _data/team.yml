@@ -1,0 +1,50 @@
+- committee: Executive Committee
+  members:
+  - name: Nandini Shiralkar
+    role: President
+    image: committee/nandini.png
+    bio: "Nandini is the founder of CERI. She studies Engineering at Trinity and her interests within existential risks primarily lie within extreme climate change. Specifically, she's intrigued by the ingenuity of some of the radical geoengineering interventions being proposed today. Among many other things, she's also the President of the Trinity Responsible Investment Society – a community at Trinity helping the College “do the most good” with its £1.5bn endowment. She enjoys writing science fiction, cooking exotic meals, and collecting coins."
+  - name: Rudolf Laine
+    role: Vice-President
+    image: committee/rudolf.jpg
+    bio: "Rudolf is a third year Computer Science student with an interest in anything that might have decisive effects on the long-term future of human civilisation (conveniently including everything at CERI!). He's read especially much about nuclear risks and is getting up to speed on technical AI. He's also especially interested in entrepreneurship, and generally of the opinion that the world needs more big, ambitious projects. You can read his writing on his [blog](https://strataoftheworld.blogspot.com/)."
+  - name: Max Wong
+    role: Secretary
+    image: committee/max.png
+    bio: "Max is an undergraduate maths student at Trinity College. He is particularly interested in nanotech x-risks, especially in the effectiveness and feasibility of presently setting up global preventative measures in anticipation of an APM-fuelled weapons surge. When he's not cooped up in my room, he can usually be found playing badminton, taking a very long walk or practising piano."
+  - name: Reuel Armstrong
+    role: Treasurer
+    image: committee/reuel.jpg
+    bio: "Reuel is a mathematics undergraduate at Churchill College who lives in London with a pandemic-formed interest in biosecurity and biorisk. He enjoys the majestic vistas of nature and his worldview has been shaped by the glorious apathy of nature; skiing and Lego."
+  - name: Euan Ong
+    role: Webmaster
+    image: committee/euan.jpg
+    bio: "Euan is a second year Computer Science student at Trinity (but secretly has a love for maths). He's interested in automated reasoning, AI safety (specifically, interpretability and robust out-of-distribution generalisation), cybersecurity and effective altruism."
+- committee: Cause Area Organisers
+  members:
+  - name: Jamie Bernardi
+    role: AI
+    image: committee/jamie.jpeg
+    bio: "Jamie works remotely with researchers at the Future of Humanity Institute via a grant from the Long Term Future Fund, and is a physics graduate of the University of Cambridge. He enjoys playing guitar, bouldering and running. Jamie's latest projects are kept up to date [here](https://j-bernardi.me/)."
+  - name: Will Aldred
+    role: Nuclear
+    image: committee/will.jpeg
+    bio: "Will joined the full-time leadership team at EA Cambridge in October 2021. Previously, he held research positions in academia (at Cambridge) and then with the Stanford Existential Risks Initiative, where he worked on cause prioritization around nuclear weapons risk. For his undergrad years, Will was a student-athlete at California, Berkeley. He competed on the D-I golf team there and double-majored in astrophysics and economics. In his free time, Will likes to read and think (and talk, if his friends will let him) about philosophy, most recently infinite ethics and theories of self."
+  - name: Herbie Bradley
+    role: Climate
+    image: committee/herbie.png
+    bio: "Herbie is a first year PhD student in AI for Environmental Risk, working on emulations of atmospheric chemistry models. Previously he studied maths and computer science, and just graduated from a masters in computer science at Warwick. He enjoys discussing climate change mitigation and the future of AI. In his spare time he enjoys playing the piano, podcasts, and reading sci-fi."
+- committee: Support
+  members:
+  - name: Dewi Erwan
+    role: Advisor
+    image: committee/dewi.jpeg
+    bio: "Dewi graduated from Durham University having studied risk and engineering, and now works full time supporting various teams and cause-specific groups within Cambridge. He's particularly passionate about biosecurity, artificial intelligence, alternative proteins and global cooperation. In his spare time, he enjoys running, climbing, jazz music, and vanlife."
+  - name: Callum McDougall
+    role: Impact Officer
+    image: committee/callum.jpeg
+    bio: "Callum is starting his Master's degree in maths at Cambridge this year. He's interested in x-risks, specifically AI alignment. In his spare time, he enjoys rock-climbing, chess, and using maths & programming to create [art](https://github.com/callummcdougall/computational-thread-art)."
+  - name: Arthur Conmy
+    role: Publicity Officer
+    image: committee/arthur.jpg
+    bio: "Arthur is a third year maths student at Trinity (but secretly has a love of computer science). Broadly, he's interested in the potential for technical research to align potential Artificial General Intelligences' goals with humanity's, which combines his interests in hard well-defined problems and altruism. He is particularly interested in interpretability of deep learning architectures and understanding of their underlying optimisation procedures (e.g. mysteries in GANs such as [this](https://arxiv.org/abs/2103.01678)). In his free time, he enjoys cycling, running and off-screen games and puzzles."

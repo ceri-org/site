@@ -1,0 +1,18 @@
+<!-- Navigation -->
+<nav class="navbar navbar-light navbar-expand-md fixed-top" id="mainNav" style="border-width: 0px;height: 78px;">
+    <div class="container"><a class="navbar-brand" href="#"><img src="/img/logo-white.svg" style="height: 48px;"><span style="margin-left: 9px;">ceri</span></a><button data-bs-toggle="collapse" class="navbar-toggler navbar-toggler-right" data-bs-target="#navbarResponsive" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" value="Menu"><i class="fa fa-bars"></i></button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ms-auto">
+                {% for a in site.data.menu.section %}
+                {% assign url_char = a.url | slice: 1 %}
+                {% if page.url == "/" and url_char == "#" %}
+                {% assign href_url = a.url | remove_first: "/" %}
+                {% else %}
+                {% assign href_url = a.url %}
+                {% endif %}
+                <li class="nav-item nav-link"><a class="nav-link{% if a.page == "Home" %} active{% endif %}" href="{{ href_url }}">{{ a.page }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,37 @@
+section:
+  - page: Home
+    url: "/#home"
+  - page: About
+    url: "/#about"
+  - page: Events
+    url: "/#events"
+  - page: Fellowships
+    url: "/#fellowships"
+  - page: Resources
+    url: "/#resources"
+  - page: Symposium
+    url: "/#research-symposium"
+  - page: Team
+    url: "/team/"
+  - page: Contact
+    url: "/contact/"
+
+#section:
+#  - page: Introduction
+#    url: /intro
+#    subsection:
+#      - page: Getting Started
+#        url: /intro/quickstart
+#      - page: Configuration
+#        url: /intro/config
+#      - page: Deploying
+#        url: /intro/deploy
+#  - page: Advanced Usage
+#    url: /usage
+#    subsection:
+#      - page: Customizing
+#        url: /usage/customizing
+#      - page: All Configuration Settings
+#        url: /usage/settings
+#      - page: Help and Support
+#        url: /usage/support

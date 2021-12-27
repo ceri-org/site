@@ -1,29 +1,28 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Cambridge Existential Risks Initiative
+email: ceri-contact@srcf.net
+url: https://camxrisk.org
+description: "Cambridge Existential Risks Initiative (CERI) is a network of academics and students at the University of Cambridge and beyond, working to mitigate existential risks."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
   links: '#219ab3'
 
-# Footer settings
-footer: Your Website
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: Facebook
+    url: https://www.facebook.com/cambxrisk
+    fa-icon: fa-facebook-f
+  - title: Instagram
+    url: https://www.instagram.com/cambxrisk/
+    fa-icon: fa-instagram
+  - title: LinkedIn
+    url: https://www.linkedin.com/company/cambridge-existential-risks-initiative/
+    fa-icon: fa-linkedin-square
+  - title: YouTube
+    url: https://www.youtube.com/channel/UCaGONW94o_nEN5zV7UwElzw
+    fa-icon: fa-youtube-play
 
 # Build settings
 markdown: kramdown
