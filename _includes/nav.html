@@ -13,15 +13,15 @@
                     {% endif %}
                     
                     {% if a.subsection[0] %}
-                        <li class="nav-item dropdown d-xxl-flex align-items-xxl-center"><a class="dropdown-toggle nav-link d-xxl-flex" aria-expanded="false" data-bs-toggle="dropdown" href="#">{{ a.page }}</a>
+                        <li class="nav-item dropdown d-xxl-flex align-items-xxl-center"><a class="dropdown-toggle nav-link d-xxl-flex{% if page.url contains a.url %} active{% endif %}" aria-expanded="false" data-bs-toggle="dropdown" href="#">{{ a.page }}</a>
                             <div class="dropdown-menu dropdown-menu-dark">
                                 {% for sub in a.subsection %}
-                                    <a class="dropdown-item" href="{{ sub.url }}">{{sub.page}}</a>
+                                    <a class="dropdown-item{% if page.url contains sub.url %} active{% endif %}" href="{{ sub.url }}">{{sub.page}}</a>
                                 {% endfor %}
                             </div>
                         </li>
                     {% else %}
-                        <li class="nav-item nav-link"><a class="nav-link{% if a.url == page.url %} active{% endif %}" href="{{ href_url }}">{{ a.page }}</a></li>
+                        <li class="nav-item nav-link"><a class="nav-link{% if page.url contains a.url %} active{% endif %}" href="{{ href_url }}">{{ a.page }}</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
