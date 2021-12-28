@@ -20,7 +20,8 @@ Some resources that may be of interest:
 
 ## More comprehensive introductions
 - [An Introduction to the AI Alignment Landscape](https://www.alignmentforum.org/posts/SQ9cZtfrzDJmw9A2m/my-overview-of-the-ai-alignment-landscape-a-bird-s-eye-view) (Neel Nanda, former EA Cambridge member, current researcher at Anthropic)
-- [2022 AGI Safety Fundamentals Curriculum](https://docs.google.com/document/d/1mTm_sT2YQx3mRXQD6J2xD2QJG1c3kHyvX8kQc_IQ0ns/edit?usp=sharing) (curriculum designed by Richard Ngo, former DeepMind ML research engineer and currently on the OpenAI policy team)
+- [2022 AGI Safety Fundamentals Curriculum](https://docs.google.com/document/d/1mTm_sT2YQx3mRXQD6J2xD2QJG1c3kHyvX8kQc_IQ0ns/edit?usp=sharing) (curriculum designed by Richard Ngo, former DeepMind ML research engineer and currently on the OpenAI policy team) (also hosted [on this page on the EA Cambridge website](https://www.eacambridge.org/agi-safety-fundamentals))
+- [2022 AI Governance Fundamentals Curriculum](https://docs.google.com/document/d/1F4lq6yB9SCINuo190MeTSHXGfF5PnPk693JToszRttY/edit#)
 
 
 ## Newsletters & mailing lists
@@ -35,3 +36,7 @@ Some resources that may be of interest:
 - The Alignment Problem (Brian Christian)
 - Human Compatible (Stuart Russell)
 - Superintelligence (Nick Bostrom)
+
+
+## More
+See also the [longer list on the EA Cambridge website](https://www.eacambridge.org/agi-further-resources).
