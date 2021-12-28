@@ -7,7 +7,7 @@ Artificial intelligence is likely to be perhaps the most transformative technolo
 
 You can apply to work on a project relevant to understanding the effects of AI on existential risk at our [Summer Research Fellowship](https://camxrisk.org/fellowships/).
 
-Opportunities in Cambridge relevant to AI alignemnt are regularly posted on our [mailing list](http://eepurl.com/hGPPkf).
+Opportunities in Cambridge relevant to AI alignment are regularly posted on our [mailing list](http://eepurl.com/hGPPkf).
 
 Some resources that may be of interest:
 
