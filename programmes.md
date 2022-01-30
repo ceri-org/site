@@ -10,4 +10,14 @@ The Existential Risks Introductory Course (ERIC) is an 8 week course designed to
 
 This course is suitable for everyone, regardless of your background knowledge about existential risks or Effective Altruism. It is also multidisciplinary, spanning fields as disparate as history and anthropology, politics and economics, philosophy, computer science, biology, and statistics.
 
-The first ERIC cohort is already running, having started in January 2022. More cohorts will be run in the future.
+The first run of ERIC is already in progress, having started in January 2022. More cohorts will be run in the future.
+
+
+## ECCM
+
+The Effective Climate Change Mitigation seminar programme also runs in a discussion group format. The second iteration is currently ongoing, after the first cohorts successfully finished in December 2021. We expect to run this programme again in the future.
+
+
+## AGISF
+
+The Artificial General Intelligence Safety Fundamentals programme is something CERI helps run along with EA Cambridge and others. You can see the curriculum [here](https://docs.google.com/document/d/1mTm_sT2YQx3mRXQD6J2xD2QJG1c3kHyvX8kQc_IQ0ns/edit#heading=h.dlm795ug69gc). The program has run twice before, and its third iteration is running until March 2022, after which we expect signups to open up again.
