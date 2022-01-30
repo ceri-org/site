@@ -7,6 +7,8 @@ section:
     url: "/#events"
   - page: Fellowships
     url: "/fellowships/"
+  - page: Programmes
+    url: "/programmes/"
   - page: Resources
     url: "/resources/"
     subsection:
