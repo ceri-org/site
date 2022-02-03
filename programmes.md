@@ -1,5 +1,5 @@
 ---
-title: Our Research Fellowships
+title: Our Programmes
 layout: page
 ---
 
