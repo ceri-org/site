@@ -9,11 +9,7 @@ The 2022 iteration has an intended length of 10 weeks, with some flexibility. It
 
 ## Applications and interest forms
 
-- [Climate-related project application form](https://camxrisk.us5.list-manage.com/track/click?u=93c9efcd99ab212a110d46c03&id=abf456d2f6&e=daad5f816c)
-- [Nuclear risk project interest form](https://camxrisk.us5.list-manage.com/track/click?u=93c9efcd99ab212a110d46c03&id=2f1402c18f&e=daad5f816c)
-- [AI risks interest form](https://camxrisk.us5.list-manage.com/track/click?u=93c9efcd99ab212a110d46c03&id=4865a4a911&e=daad5f816c)
-- Biotechnology interest form (coming soon!)
-- General existential risks project interest form (coming soon!)
+- [General interest form](https://airtable.com/shrZtR1A95V75Ref4)
 
 If you're considering the SRF, apply / reigster interest as soon as possible. Our [mailing list](http://eepurl.com/hGPPkf) is a good way to stay updated about when applications open. 
 
