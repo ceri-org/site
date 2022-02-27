@@ -11,7 +11,7 @@ The 2022 iteration has an intended length of 10 weeks, with some flexibility. It
 
 - [General interest form](https://airtable.com/shrZtR1A95V75Ref4)
 
-If you're considering the SRF, apply / reigster interest as soon as possible. Our [mailing list](http://eepurl.com/hGPPkf) is a good way to stay updated about when applications open. 
+If you're considering the SRF, apply / register interest as soon as possible. Our [mailing list](http://eepurl.com/hGPPkf) is a good way to stay updated about when applications open. 
 
 ## Programme Objectives
 
