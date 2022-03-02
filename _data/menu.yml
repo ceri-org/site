@@ -1,11 +1,7 @@
 section:
   - page: Home
     url: "/#home"
-  - page: About
-    url: "/#about"
-  - page: Events
-    url: "/#events"
-  - page: Fellowships
+  - page: Fellowship
     url: "/fellowships/"
   - page: Programmes
     url: "/programmes/"
@@ -20,8 +16,6 @@ section:
       url: "/resources/climate/"
     - page: Bio-risk
       url: "/resources/bio-risk/"
-  - page: Symposium
-    url: "/research-symposium/"
   - page: Team
     url: "/team/"
   - page: Contact
