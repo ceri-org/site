@@ -12,10 +12,10 @@
     role: Secretary
     image: committee/max.png
     bio: "Max is an undergraduate maths student at Trinity College. He is particularly interested in nanotech x-risks, especially in the effectiveness and feasibility of presently setting up global preventative measures in anticipation of an APM-fuelled weapons surge. When he's not cooped up in my room, he can usually be found playing badminton, taking a very long walk or practising piano."
-  - name: Reuel Armstrong
+  - name: Arthur Conmy
     role: Treasurer
-    image: committee/reuel.jpg
-    bio: "Reuel is a mathematics undergraduate at Churchill College who lives in London with a pandemic-formed interest in biosecurity and biorisk. He enjoys the majestic vistas of nature and his worldview has been shaped by the glorious apathy of nature; skiing and Lego."
+    image: committee/arthur.jpg
+    bio: "Arthur is a third year maths student at Trinity (but secretly has a love of computer science). Broadly, he's interested in the potential for technical research to align potential Artificial General Intelligences' goals with humanity's, which combines his interests in hard well-defined problems and altruism. He is particularly interested in interpretability of deep learning architectures and understanding of their underlying optimisation procedures (e.g. mysteries in GANs such as [this](https://arxiv.org/abs/2103.01678)). In his free time, he enjoys cycling, running and off-screen games and puzzles."
   - name: Euan Ong
     role: Webmaster
     image: committee/euan.jpg
@@ -44,7 +44,3 @@
     role: Impact Officer
     image: committee/callum.jpeg
     bio: "Callum is starting his Master's degree in maths at Cambridge this year. He's interested in x-risks, specifically AI alignment. In his spare time, he enjoys rock-climbing, chess, and using maths & programming to create [art](https://github.com/callummcdougall/computational-thread-art)."
-  - name: Arthur Conmy
-    role: Publicity Officer
-    image: committee/arthur.jpg
-    bio: "Arthur is a third year maths student at Trinity (but secretly has a love of computer science). Broadly, he's interested in the potential for technical research to align potential Artificial General Intelligences' goals with humanity's, which combines his interests in hard well-defined problems and altruism. He is particularly interested in interpretability of deep learning architectures and understanding of their underlying optimisation procedures (e.g. mysteries in GANs such as [this](https://arxiv.org/abs/2103.01678)). In his free time, he enjoys cycling, running and off-screen games and puzzles."
