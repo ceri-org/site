@@ -10,7 +10,7 @@ Technological revolutions have previously occurred in human history. Most recent
 
 As the field of Artificial Intelligence (AI) grows, there are plausible pathways for us to outsource our mental labour in a similar way. We might expect the world to look significantly different again if we achieve capable Artificial General Intelligence (AGI). If and when we do, it’s vitally important that such agents would have humans’ best interests at heart. [Current trends](https://www.cold-takes.com/forecasting-transformative-ai-the-biological-anchors-method-in-a-nutshell/) suggest we may be able to achieve human level intelligence this century, which makes working on the alignment problem a pressing matter for today’s researchers. There are two main components we are focusing on at CERI, for working on this challenge.
 
-## Alignment - specifying human’s goals
+## Alignment - specifying humanity’s goals
 
 It’s plausible that we can create artificial agents that are general and more intelligent than ourselves. These agents may have the ability to take actions in the world, either granted to it for economic purposes, or instrumentally obtained by the agent via some oversight of its designers.
 
