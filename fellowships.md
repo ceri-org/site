@@ -9,7 +9,7 @@ The 2022 iteration has an intended length of 10 weeks, with some flexibility. It
 
 # [2022 Summer Research Fellowship](https://www.cerifellowship.org/)
 
-See the website for details.
+See [the fellowship website](https://www.cerifellowship.org/) for details.
 
 
 # 2021 Summer Research Fellowship
